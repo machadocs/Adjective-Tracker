@@ -1,0 +1,2 @@
+fox,https://www.foxnews.com,title
+cnn,https://www.cnn.com/politics,cd__headline-text
